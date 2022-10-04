@@ -369,6 +369,7 @@ export const themes = {
   },
   gradient: {
     title_color: "fff",
+    icon_color: "4c71f2",
     text_color: "fff",
     bg_color: "30,e96443,904e95",
   },
