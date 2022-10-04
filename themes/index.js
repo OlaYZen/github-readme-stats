@@ -367,6 +367,11 @@ export const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   },
+  gradient: {
+    title_color: "fff",
+    text_color: "fff",
+    bg_color: "30,e96443,904e95",
+  },
 };
 
 export default themes;
